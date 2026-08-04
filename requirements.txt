@@ -1,0 +1,4 @@
+requests
+openpyxl
+PyQt5
+google-genai
